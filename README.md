@@ -1,3 +1,7 @@
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green?label=License)](https://github.com/Open-CMSIS-Pack/BSP-Pack-HandsOn/blob/main/LICENSE-Apache-2.0)
+[![Examples Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/BSP-Pack-HandsOn/build.yml?logo=arm&logoColor=0091bd&label=Examples%20Build%20Test)](./.github/workflows/build.yml)
+[![Pack build](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/BSP-Pack-HandsOn/pack.yml?logo=arm&logoColor=0091bd&label=Build%20pack)](https://github.com/Open-CMSIS-Pack/BSP-Pack-HandsOn/tree/main/.github/workflows/pack.yml)
+
 # Create a Board Support Pack - Hands-On Example
 
 This repository explains the steps to create a board support pack using the Open-CMSIS-Pack technology. 
